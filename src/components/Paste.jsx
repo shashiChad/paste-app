@@ -56,9 +56,7 @@ const Paste = () => {
                         }}>
                           Copy
                         </button>
-                        <button>
-                          Share
-                        </button>
+                       
                       </div>
                       <div>
                         {paste.createAt}
